@@ -1,2 +1,8 @@
 # Rags2Riches
-Lots of open source Tools like a Discord Webhook spammer and a geo location ip lookup
+Open source tools such as IP Lookup tools
+
+# Main language
+Python
+
+# Contributors
+80b
